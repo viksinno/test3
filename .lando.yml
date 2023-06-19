@@ -1,0 +1,4 @@
+name: innoraft_employee_management_portal
+recipe: drupal10
+config:
+  webroot: web
